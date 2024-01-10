@@ -1,8 +1,9 @@
-# React + Vite
+# Click Timer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Click Timer App! This minimalistic timer app allows you to challenge yourself by clicking a "Count" button as many times as you can within a specified time frame. Ready to test your clicking skills?
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Timer Countdown:** Set the timer to 10 seconds and click the "Count" button within the given time.
+- **Count Button:** Click as many times as possible before the timer reaches zero.
+- **Reset Button:** Reset the count and timer to zero for a fresh challenge.
